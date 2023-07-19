@@ -1,5 +1,10 @@
 /*section about me*/
-.about-me{width: 258px; height: 428px;background: rgba(255, 191, 191, 1)}
-.image{margin-top: 30px; margin-left: 28px}
+.about-me{width: 255px; height: 418px;background: rgba(255, 191, 191, 1); margin:10px 0 0 10px}
+.image{margin-top:0px; margin-left: 28px}
 .title1{color: white; margin-left: 154px; margin-bottom: 10px}
-.text1{color: white;font-size: 14px;line-height: 15px; width: 218px;margin-left: 22px}
+.text1{color: white;font-size: 10px;line-height: 12px; width: 218px; margin-left: 22px; font-family: 'Poppins';}
+.polygon{padding-left: 245px}
+/*and section*/
+/*section working skills*/
+.skills{width: 258px;height: 397px; background: rgba(200, 198, 198, 0.27);margin:25px 0 0 10px;}
+.title2{margin: 34px 0 0 80px}
